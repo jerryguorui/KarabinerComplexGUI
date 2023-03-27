@@ -7,6 +7,11 @@ Karabiner  Complex GUI,Quickly set key combinations
 暂时只打包了 mac 的，
 后续会打包windows的
 
+在这里下载：
+
+https://github.com/jerryguorui/KarabinerComplexGUI/releases
+
+
 ![截屏2023-03-27 下午6 17 19](https://user-images.githubusercontent.com/12981724/227914261-64f37fa9-cd03-43d3-9765-2f5b029ae222.png)
 ![截屏2023-03-27 下午6 18 13](https://user-images.githubusercontent.com/12981724/227914295-3193f135-ced6-478f-8a66-66db94ecd2e7.png)
 ![截屏2023-03-27 下午6 18 30](https://user-images.githubusercontent.com/12981724/227914318-98eb2eb6-fcd2-4349-9ed2-2b812e3791d5.png)
