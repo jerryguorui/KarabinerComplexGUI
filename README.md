@@ -1,4 +1,5 @@
 # KarabinerComplexGUI
+Karabiner-Elements
 Karabiner  Complex GUI,Quickly set key combinations
 
 一个可以快速设置 组合键 映射的 程序
